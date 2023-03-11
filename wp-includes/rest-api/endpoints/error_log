@@ -1,0 +1,2 @@
+[29-Nov-2022 04:33:07 UTC] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/mithilashabab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[29-Nov-2022 04:39:47 UTC] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/mithilashabab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17

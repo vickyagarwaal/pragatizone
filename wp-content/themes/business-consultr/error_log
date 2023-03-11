@@ -1,0 +1,19 @@
+[10-Feb-2022 15:43:48 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mithilashabab/public_html/wp-content/themes/business-consultr/404.php on line 8
+[11-Feb-2022 00:26:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mithilashabab/public_html/wp-content/themes/business-consultr/404.php on line 8
+[11-Feb-2022 16:50:08 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mithilashabab/public_html/wp-content/themes/business-consultr/404.php on line 8
+[13-Jun-2022 09:46:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mithilashabab/public_html/wp-content/themes/business-consultr/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mithilashabab/public_html/wp-content/themes/business-consultr/404.php on line 8
+[21-Jun-2022 06:30:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mithilashabab/public_html/wp-content/themes/business-consultr/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mithilashabab/public_html/wp-content/themes/business-consultr/404.php on line 8
+[27-Sep-2022 04:44:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mithilashabab/public_html/wp-content/themes/business-consultr/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mithilashabab/public_html/wp-content/themes/business-consultr/index.php on line 13
+[27-Sep-2022 04:45:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mithilashabab/public_html/wp-content/themes/business-consultr/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mithilashabab/public_html/wp-content/themes/business-consultr/index.php on line 13

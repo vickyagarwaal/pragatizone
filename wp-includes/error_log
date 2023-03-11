@@ -1,0 +1,13 @@
+[12-Oct-2022 09:52:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mithilashabab/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mithilashabab/public_html/wp-includes/date.php on line 11
+[12-Oct-2022 10:19:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/mithilashabab/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mithilashabab/public_html/wp-includes/rss.php on line 19
+[29-Nov-2022 04:33:12 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/mithilashabab/public_html/wp-includes/compat.php on line 333
+[29-Nov-2022 04:33:12 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/mithilashabab/public_html/wp-includes/compat.php on line 333
+[29-Nov-2022 04:33:12 UTC] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home/mithilashabab/public_html/wp-includes/compat.php on line 333
+[29-Nov-2022 04:33:12 UTC] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home/mithilashabab/public_html/wp-includes/compat.php on line 333
+[29-Nov-2022 04:33:12 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/mithilashabab/public_html/wp-includes/compat.php on line 333

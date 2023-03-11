@@ -1,0 +1,1 @@
+[29-Nov-2022 04:37:08 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/mithilashabab/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
