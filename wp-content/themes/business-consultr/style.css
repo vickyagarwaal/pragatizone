@@ -4829,26 +4829,25 @@ article.post-content {
   padding: 13pt 30px;
   margin: 0 0 10px;
   padding: 30px;
-  text-align: center;
 }
 .widget select {
   max-width: 100%;
 }
 .widget .widget-title,
 .widget .widgettitle {
-  background-color: #fff;
-  color: #10242b;
-  display: inline-block;
-  font-family: 'Abel', sans-serif;
-  font-size: 20px;
-  font-weight: 500;
-  margin: -48px auto 0px;
-  line-height: 1;
-  padding: 0px 13pt 41px;
-  text-align: center;
-  vertical-align: middle;
-  z-index: 9;
-  text-transform: capitalize;
+     background-color: #fff;
+    color: #10242b;
+    display: inline-block;
+    font-family: 'Abel', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin: -13px auto 0px;
+    line-height: 1;
+    padding: 0px 13pt 0px;
+    text-align: center;
+    vertical-align: middle;
+    z-index: 9;
+    text-transform: capitalize;
 }
 .widget ul {
   list-style: none;
@@ -4864,9 +4863,9 @@ sidebar.sidebar .widget ul {
   padding-left: 0;
 }
 .widget li {
-  border-top: 1px solid #f7f7f7;
   color: #666666;
-  position: relative;
+    position: relative;
+    border-bottom: 1px solid #c9c9c9;
 }
 .widget li:first-child {
   border-top: none;
@@ -5137,6 +5136,8 @@ body .widget li.recentcomments a {
 }
 sidebar.sidebar .widget:last-child {
   margin-bottom: 30px;
+    margin-top: 30px;
+
 }
 .widget.widget_media_image .gallery, .widget.widget_media_gallery .gallery {
   margin: -5px;

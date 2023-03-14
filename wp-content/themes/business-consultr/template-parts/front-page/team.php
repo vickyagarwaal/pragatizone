@@ -1,46 +1,4 @@
 
-<section id="block-achievement" class=" wrapper block-achievement">
-    <div class="container">
-      <div class="row">
-        <div class="section-head col-sm-12">
-          <h4><span>Our</span> Values</h4>
-        </div>
-        
-       
-        
-        
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> <span class="icon icon feature_box_col_six"><i class="kfi kfi-genius
-"></i></span>
-            <h6>INTEGRITY</h6>
-            <p>We believe in transparency at the work place, in our processes and dealings because action indeed is the sole medium of expression for ethics.
-
-</p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> <span class="icon feature_box_col_six"><i class="kfi kfi-lightbulb-alt
-
-"></i></span>
-            <h6>INNOVATION</h6>
-            <p>To innovate is to lead for a better life and we always seek to challenge the obsolete and even the current.
-
- </p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> <span class="icon icon feature_box_col_six"><i class="kfi kfi-puzzle
-"></i></span>
-            <h6>INITIATIVE</h6>
-            <p>We are always ready to tread that extra mile to give our customers and associates delight in new avenues.
-
-</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
    <section id="block-team" class="wrapper block-team block-grid">
    <div class="container">
       <div class="section-title-group wow fade-in-up" style="">

@@ -33,6 +33,25 @@
 
          $shortcode = business_consultr_get_option( 'contact_shortcode' );
       ?>
+
+<?php if (!is_front_page() ) { ?>
+   <section class="wrapper block-callback block-search-callback banner-content">
+	<div class="banner-overlay">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-10 col-md-10 col-sm-offset-1 col-md-offset-1">
+											<h2 class="section-title quality_h3">Our Brands. Touching Your Life. Everyday. | Bharosa Tarakki Ka |</h2>
+																<div class="button-container">
+							<a href="/get-a-quote" class="button-primary button-round">
+								Make A Enquiry							</a>
+						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</section>
+<?php } ?>
+
    <div class="contact-form">
       <div class="container">
          <div class="row">

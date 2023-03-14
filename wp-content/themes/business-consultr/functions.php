@@ -498,9 +498,10 @@ function business_consultr_get_homepage_sections(){
 		'services',
 		'portfolio',
 		'counter',
-		'testimonials',
 		'team',
 		'callback',
+		'testimonials',
+
 		'blog',
 		'contact'
 	);
