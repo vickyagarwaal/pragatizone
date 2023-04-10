@@ -10,17 +10,17 @@
 
 
 <?php if (is_page( array( 550, 'or post title'  ) ) ) : ?>
-   <section class="wrapper wrap-inner-banner" style="background-image: url('/pragatizone/wp-content/uploads/infrastructure-construction-pragatizone.png')">
+   <section class="wrapper wrap-inner-banner" style="background-image: url('/wp-content/uploads/infrastructure-construction-pragatizone.png')">
 
 
     <?php elseif (is_page( array( 834, 'or post title'  ) ) ) : ?>
-  <section class="wrapper wrap-inner-banner" style="background-image: url('/pragatizone/wp-content/uploads/it-pheripheral.png')">
+  <section class="wrapper wrap-inner-banner" style="background-image: url('/wp-content/uploads/it-pheripheral.png')">
       <?php elseif (is_page( array( 1068, 'or post title'  ) ) ) : ?>
-  <section class="wrapper wrap-inner-banner" style="background-image: url('/pragatizone/wp-content/uploads/fmcg-pragatizone-1.png')">
+  <section class="wrapper wrap-inner-banner" style="background-image: url('/wp-content/uploads/fmcg-pragatizone-1.png')">
          	 <?php elseif (is_page( array( 551, 'or post title'  ) ) ) : ?>
- <section class="wrapper wrap-inner-banner" style="background-image: url('/pragatizone/wp-content/uploads/security-setup-cctv.png')">
+ <section class="wrapper wrap-inner-banner" style="background-image: url('/wp-content/uploads/security-setup-cctv.png')">
 <?php else : ?>
- <section class="wrapper wrap-inner-banner" style="background-image: url('/pragatizone/wp-content/uploads/pragatizone-default-banner-1.png')">
+ <section class="wrapper wrap-inner-banner" style="background-image: url('/wp-content/uploads/pragatizone-default-banner-1.png')">
 
 <?php endif; ?>  
 

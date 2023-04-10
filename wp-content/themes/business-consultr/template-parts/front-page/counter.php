@@ -84,8 +84,8 @@
                <div class="col-xs-6 col-sm-3 col-md-3 list">
                   <div class="icon-area"> <span class="kfi kfi-id-2"></span></div>
                   <div class="content-item" style="height: 70.7969px;">
-                     <div class="count-area numscroller roller-title-number-3 scrollzip isShown" data-min="1" data-max="149" data-delay="5" data-increment="10" data-slno="3">10+</div>
-                     <div class="title-area">Strong Team
+                     <div class="count-area numscroller roller-title-number-3 scrollzip isShown" data-min="1" data-max="149" data-delay="5" data-increment="10" data-slno="3">60+</div>
+                     <div class="title-area"> Team Members
 </div>
                   </div>
                </div>

@@ -42,7 +42,7 @@
 				<div class="col-xs-12 col-sm-10 col-md-10 col-sm-offset-1 col-md-offset-1">
 											<h2 class="section-title quality_h3">Our Brands. Touching Your Life. Everyday. | Bharosa Tarakki Ka |</h2>
 																<div class="button-container">
-							<a href="/get-a-quote" class="button-primary button-round">
+							<a href="/enquiry" class="button-primary button-round">
 								Make A Enquiry							</a>
 						</div>
 									</div>
@@ -69,7 +69,7 @@
             </div>
             <div class="col-sm-6 animated fadeInLeft delay-2s" style="visibility: visible;">
                <div class="contact-page-content">
-                  <p><img loading="lazy" class="aligncenter size-full wp-image-1603" src="http://mithilarefrigeration.com/wp-content/uploads/call-mithila-refrigeration.png" alt="" width="440" height="450"></p>
+                  <p><img loading="lazy" class="aligncenter size-full wp-image-1603" src="http://pragatizone.in/wp-content/uploads/call-us.png" alt="" width="440" height="450"></p>
                </div>
             </div>
             <div class="col-sm-6  animated fadeInRight delay-1s" style="visibility: visible;">
@@ -118,7 +118,7 @@
 					<div class="row">
 						<div class="col-xs-12 col-sm-8 col-md-8">
 							<div class="site-info">
-								Copyright © 2023 | All Rights Reserved to Pragati Zone Pvt. Ltd. | Brand Managed by <a ref="nofollow" style="color:#4bb558; font-weight:600" href="https://www.webhouseindia.com/">Webhouseindia.com</a>
+								Copyright © 2023 | All Rights Reserved to PRAGATI ZONE | Brand Managed by <a ref="nofollow" style="color:#4bb558; font-weight:600" href="https://www.webhouseindia.com/">Webhouseindia.com</a>
 
 							</div><!-- .site-info -->
 						</div>
@@ -135,7 +135,7 @@
 </a>
 <div class="share_box share_box1">
 <div class="top-social">
-<a href="/wp-content/uploads/PRAGATI-ZONE_compressed.pdf"><i class="kfi kfi-datareport
+<a href="http://pragatizone.in/wp-content/uploads/Pragatizone-Brochure.pdf"><i class="kfi kfi-datareport
 
 "></i> <blink>Company Profile</blink>
 </a>

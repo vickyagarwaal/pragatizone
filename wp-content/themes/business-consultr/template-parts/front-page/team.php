@@ -1,5 +1,5 @@
 
-   <section id="block-team" class="wrapper block-team block-grid">
+   <!--<section id="block-team" class="wrapper block-team block-grid">
    <div class="container">
       <div class="section-title-group wow fade-in-up" style="">
          <div class="sub-title">Meet Our Management Team</div>
@@ -54,4 +54,4 @@
          </div>
       </div>
    </div>
-</section>
+</section> -->
