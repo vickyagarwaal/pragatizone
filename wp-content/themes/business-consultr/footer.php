@@ -143,9 +143,9 @@
 </div>
 <div class="share_box share_box2">
 <div class="top-social">
-<a href="tel:+917520200777" data-toggle="modal"> Call Now <i class="kfi kfi-phone"></i></a>
+<a href="tel:+917520100777" data-toggle="modal"> Call Now <i class="kfi kfi-phone"></i></a>
 </div>
-</div>
+</div> 
 		</footer><!-- #colophon -->
 		<?php wp_footer(); ?>
 		<script>
