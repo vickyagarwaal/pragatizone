@@ -34,7 +34,7 @@
             </div>
             <div class="col-sm-6 animated swing delay-2s" style="visibility: visible;">
                <div class="contact-page-content">
-                  <p><img loading="lazy" class="aligncenter size-full wp-image-1603" src="https://mithilarefrigeration.com/wp-content/uploads/call-mithila-refrigeration.png" alt="" width="440" height="450"></p>
+                  <p><img loading="lazy" class="aligncenter size-full wp-image-1603" src="https://pragatizone.in/wp-content/uploads/call-us.png" alt="" width="440" height="450"></p>
                </div>
             </div>
             <div class="col-sm-6  animated fadeInRight delay-1s" style="visibility: visible;">

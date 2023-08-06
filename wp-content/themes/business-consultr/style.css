@@ -367,13 +367,7 @@ body.home .site {
     text-align: center;
     margin-bottom: 90px;
 }
-.post-text p a,
-.comment-content p a,
-.entry-content li a,
-.comment-content li a,
-.widget p a {
-  text-decoration: underline;
-}
+
 .post-text p a:hover, .post-text p a:active,
 .comment-content p a:hover,
 .comment-content p a:active,
